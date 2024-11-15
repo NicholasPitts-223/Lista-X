@@ -1,0 +1,17 @@
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.exe
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.deps.json
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.runtimeconfig.json
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.dll
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\ConsumerAdviceApi.pdb
+C:\Users\Nicholas\ConsumerAdviceApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.csproj.AssemblyReference.cache
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.AssemblyInfo.cs
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\Consumer.9B889884.Up2Date
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.dll
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\refint\ConsumerAdviceApi.dll
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.pdb
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ConsumerAdviceApi.genruntimeconfig.cache
+C:\Users\Nicholas\ConsumerAdviceApi\obj\Debug\net8.0\ref\ConsumerAdviceApi.dll
